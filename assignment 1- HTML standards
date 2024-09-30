@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Sample XHTML Document</title>
+</head>
+
+<body>
+    <h1>Welcome to My Sample Page</h1>
+
+    <p>This is a sample XHTML document. Here’s some <strong>bold text</strong> and some <em>italic text</em>.</p>
+
+    <h2>Links to Explore</h2>
+    <ul>
+        <li><a href="example.html">Relative Link to Example</a></li>
+        <li><a href="https://www.example.com">Absolute Link to Example</a></li>
+    </ul>
+
+    <h2>Image Gallery</h2>
+    <p>Here are some images:</p>
+    <ol>
+        <li><img src="images/sample-image.jpg" alt="Relative Image" /></li>
+        <li><img src="=cat.png" alt="Absolute Image" /></li>
+    </ol>
+
+    <h3>In-Page Anchor</h3>
+    <p>Jump to the <a href="#footer">footer section</a>.</p>
+
+    <h2>Footer Section</h2>
+    <p id="footer">This is the footer content. Here is more <strong>bold text</strong> and <em>italic text</em>.</p>
+
+    <h2>Additional Resources</h2>
+    <ul>
+        <li>Resource 1</li>
+        <li>Resource 2</li>
+        <li>Resource 3</li>
+    </ul>
+
+</body>
+</html>
